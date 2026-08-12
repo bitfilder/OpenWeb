@@ -33,7 +33,7 @@ pip install httpx dnspython
 
 4. Запустите скрипт:
 ```bash
-python main.py
+python OpenWeb.py
 ```
 
 ## Структура проекта
