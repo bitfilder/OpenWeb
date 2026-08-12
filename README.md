@@ -1,5 +1,6 @@
 # Openweb
-![Uploading ascii-text-art.png…]()
+<img width="497" height="108" alt="ascii-text-art" src="https://github.com/user-attachments/assets/287f7470-a9a2-44fd-a53d-c0cde82aa368" />
+
 
 Консольный инструмент на Python для проведения разведки (Recon), OSINT-анализа и сканирования доменов.
 
