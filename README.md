@@ -1,5 +1,5 @@
 # Openweb
-<img width="481" height="612" alt="istockphoto-149063670-612x612" src="https://github.com/user-attachments/assets/c61229eb-8fba-4d2f-a9a0-51ee019fe947" />
+<img width="4000" height="3000" alt="closeup-shot-beautiful-turtle-swimming-sea" src="https://github.com/user-attachments/assets/3d6dbc57-c2f8-4a60-978f-1d3f9244a3d1" />
 
 Консольный инструмент на Python для проведения разведки (Recon), OSINT-анализа и сканирования доменов.
 
