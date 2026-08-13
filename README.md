@@ -15,7 +15,7 @@
 1. Клонируйте репозиторий:
 ```bash
 git clone https://github.com/bitfilder/OpenWeb
-cd ИМЯ_РЕПОЗИТОРИЯ
+cd OpenWeb
 ```
 
 2. Создайте и активируйте виртуальное окружение:
